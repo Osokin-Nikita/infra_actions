@@ -7,4 +7,4 @@ def index(request):
 
 def second_page(request):
     return HttpResponse('А это вторая страница!')
-# Проверка изменений - докерхаб + VM + 2
+# Проверка изменений - докерхаб + VM + 2+3
